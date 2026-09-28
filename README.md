@@ -118,3 +118,11 @@ InterNote es un prototipo de aplicación móvil enfocado en el intercambio colab
 - **Diseño & Prototipado:** Figma, FigJam.
 - **Técnicas en Figma:** Auto Layout, Componentes y Variantes, Tokens de Diseño, Prototipado Interactivo de Alta Fidelidad.
 - **Metodología:** Diseño de Producto, Flujos de Usuario (User Flows), Arquitectura de la Información y Validación de Usabilidad.
+
+- ## Certificados y Acreditaciones
+
+Repositorio de certificados, constancias académicas y reconocimientos profesionales:
+
+- **[Ver Carpeta de Certificados y Constancias en Google Drive](https://drive.google.com/drive/folders/1B2UyA8esjsPiviUsJPhfT9Q0Vz01ZXBJ?usp=drive_link)**
+
+---
